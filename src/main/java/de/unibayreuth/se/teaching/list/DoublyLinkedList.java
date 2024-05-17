@@ -155,7 +155,7 @@ public class DoublyLinkedList {
      * @param e Element to add
      */
     public void add(Element e) {
-        insert(e);
+         insert(e);
     }
 
     /**
